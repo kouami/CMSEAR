@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
     <artifactId>CMS</artifactId>
-    <groupId>org.dev.emmanuel.cms</groupId>
+    <groupId>org.dev.emmanuel.cmsweb</groupId>
     <version>1.0</version>
    <!-- <relativePath>../CMS</relativePath> -->
   </parent>
 
-    <groupId>org.dev.emmanuel.cms</groupId>
+    <groupId>org.dev.emmanuel.cmsweb</groupId>
     <artifactId>CMSWeb</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>

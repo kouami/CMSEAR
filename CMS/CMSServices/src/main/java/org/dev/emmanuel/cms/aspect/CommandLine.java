@@ -1,4 +1,4 @@
-package org.dev.emmanuel.cms.cmsservices;
+package org.dev.emmanuel.cms.aspect;
 
 import org.kohsuke.args4j.Option;
 
